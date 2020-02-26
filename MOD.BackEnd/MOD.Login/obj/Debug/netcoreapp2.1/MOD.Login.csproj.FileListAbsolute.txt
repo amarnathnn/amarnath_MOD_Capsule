@@ -1,0 +1,14 @@
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\bin\Debug\netcoreapp2.1\MOD.Login.deps.json
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\bin\Debug\netcoreapp2.1\MOD.Login.runtimeconfig.json
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\bin\Debug\netcoreapp2.1\MOD.Login.runtimeconfig.dev.json
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\bin\Debug\netcoreapp2.1\MOD.Login.dll
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\bin\Debug\netcoreapp2.1\MOD.Login.pdb
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\obj\Debug\netcoreapp2.1\MOD.Login.csprojAssemblyReference.cache
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\obj\Debug\netcoreapp2.1\MOD.Login.csproj.CoreCompileInputs.cache
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\obj\Debug\netcoreapp2.1\MOD.Login.RazorAssemblyInfo.cache
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\obj\Debug\netcoreapp2.1\MOD.Login.RazorAssemblyInfo.cs
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\obj\Debug\netcoreapp2.1\MOD.Login.AssemblyInfoInputs.cache
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\obj\Debug\netcoreapp2.1\MOD.Login.AssemblyInfo.cs
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\obj\Debug\netcoreapp2.1\MOD.Login.RazorTargetAssemblyInfo.cache
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\obj\Debug\netcoreapp2.1\MOD.Login.dll
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Login\obj\Debug\netcoreapp2.1\MOD.Login.pdb

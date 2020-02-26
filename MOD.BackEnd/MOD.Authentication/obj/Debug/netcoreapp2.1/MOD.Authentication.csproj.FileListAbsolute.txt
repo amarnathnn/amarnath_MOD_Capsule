@@ -1,0 +1,14 @@
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\bin\Debug\netcoreapp2.1\MOD.Authentication.deps.json
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\bin\Debug\netcoreapp2.1\MOD.Authentication.runtimeconfig.json
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\bin\Debug\netcoreapp2.1\MOD.Authentication.runtimeconfig.dev.json
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\bin\Debug\netcoreapp2.1\MOD.Authentication.dll
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\bin\Debug\netcoreapp2.1\MOD.Authentication.pdb
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.Authentication.csproj.CoreCompileInputs.cache
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.Authentication.RazorAssemblyInfo.cache
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.Authentication.RazorAssemblyInfo.cs
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.Authentication.AssemblyInfoInputs.cache
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.Authentication.AssemblyInfo.cs
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.Authentication.RazorTargetAssemblyInfo.cache
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.Authentication.dll
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.Authentication.pdb
+C:\Murali\ProjectWork\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.Authentication.csprojAssemblyReference.cache

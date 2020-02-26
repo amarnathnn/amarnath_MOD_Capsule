@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MOD.Authentication\MOD.AuthenticationService.csproj" />
+    <ProjectReference Include="..\MOD.Entities\MOD.Entities.csproj" />
+    <ProjectReference Include="..\MOD.Logging\MOD.Logging.csproj" />
+    <ProjectReference Include="..\MOD.PaymentService\MOD.PaymentService.csproj" />
+    <ProjectReference Include="..\MOD.SearchService\MOD.SearchService.csproj" />
+    <ProjectReference Include="..\MOD.TechnologyService\MOD.TechnologyService.csproj" />
+    <ProjectReference Include="..\MOD.TrainingService\MOD.TrainingService.csproj" />
+    <ProjectReference Include="..\MOD.UserService\MOD.UserService.csproj" />
+  </ItemGroup>
+
+</Project>

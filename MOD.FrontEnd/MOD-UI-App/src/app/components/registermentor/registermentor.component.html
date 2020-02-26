@@ -1,0 +1,88 @@
+<!-- <p>registermentor works!</p> -->
+<div class="container">
+        <div class="card o-hidden border-0 shadow-lg my-5">
+          <div class="card-body p-0">
+            <!-- Nested Row within Card Body -->
+            <div class="row">
+              <div class="col-lg-5 d-none d-lg-block bg-register-image"></div>
+              <div class="col-lg-7">
+                <div class="p-5">
+                  <div class="text-center">
+                    <h1 class="h4 text-gray-900 mb-4">Register As Mentor!</h1>
+                  </div>
+    <form class="user" #registerForm="ngForm" (ngSubmit)="onSubmit(registerForm.value)">
+        <div class="form-group">           
+            <input type="text" class="form-control form-control-user" placeholder="Mentor User Name" name="mentorname" id=""  ngModel>
+        </div>        
+        <div class="form-group row">
+                <div class="col-sm-6 mb-3 mb-sm-0">
+                  <input type="text" name="firstname" class="form-control form-control-user" id="exampleFirstName" placeholder="First Name" ngModel>
+                </div>
+                <div class="col-sm-6">
+                  <input type="text" name="lastname" class="form-control form-control-user" id="exampleLastName" placeholder="Last Name" ngModel>
+                </div>
+              </div>
+        <div class="form-group">            
+            <input type="text" name="email" id="" class="form-control form-control-user" placeholder="Email" ngModel>
+        </div>
+        
+        <div class="form-group">            
+            <input type="text" name="contactnumber" id="" class="form-control form-control-user" placeholder="Contact Number" ngModel>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="form-group">                    
+                    <input type="password" name="password" class="form-control form-control-user" placeholder="Enter Password" id="" ngModel>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="form-group">                    
+                    <input type="password" name="confirmpassword" id="" class="form-control form-control-user" placeholder="Confirm Password" ngModel>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">            
+            <input type="text" name="linkedinurl" id="" class="form-control form-control-user" placeholder="Linkedin Url" ngModel>
+        </div>
+        <div class="form-group">            
+            <input type="text" name="yearsofExperience" id=""  class="form-control form-control-user" placeholder="Experience" ngModel>
+        </div>
+        <div class="form-group">            
+            <select  [(ngModel)]="selectedSkill" name="technology" class="form-control form-control-user" placeholder="Technology" >
+                <option value="0">--All--</option>
+                <option *ngFor="let skill of skills" value={{skill.skillId}}>
+                    {{skill.name}}
+                </option>
+            </select>
+        </div>
+        <div class="form-group">           
+            <select  [(ngModel)]="selectedTime" name="timing" class="form-control form-control-user" >
+                <option value="0">--All--</option>
+                <option value="9am-11am">9am-11am</option>
+                <option value="11am-1pm">11am-1pm</option>
+                <option value="2pm-4pm">2pm-4pm</option>
+            </select>
+        </div>       
+        <h4>
+            <span class="badge badge-warning">{{ registerResponse.errorMessage}}</span>
+        </h4>
+        <h4>
+            <label for="" class="badge badge-warning">{{ registerResponse.successMessage}}</label>
+        </h4>
+        <button class="btn btn-primary btn-lg">Register</button>
+
+    </form>
+    <hr>
+    <div class="text-center">
+      <a class="small" href="forgot-password.html">Forgot Password?</a>
+    </div>
+    <div class="text-center">
+      <a class="small" href="/">Already have an account? Login!</a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+
+</div>

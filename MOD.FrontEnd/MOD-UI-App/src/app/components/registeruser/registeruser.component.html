@@ -1,0 +1,109 @@
+<!-- <div class="container">
+    <h1>Register User</h1>
+    <form #registerForm="ngForm" (ngSubmit)="onSubmit(registerForm.value)">
+        <div class="form-group">
+            <label for="">User Name</label>
+            <input type="text" name="username" id="" class="form-control" ngModel>
+        </div>
+        <div class="form-group">
+            <label for="">First Name</label>
+            <input type="text" name="firstname" id="" class="form-control" ngModel>
+        </div>
+        <div class="form-group">
+            <label for="">Last Name</label>
+            <input type="text" name="lastname" id="" class="form-control" ngModel>
+        </div>
+        <div class="form-group">
+            <label for="">Email</label>
+            <input type="text" name="email" id="" class="form-control" ngModel>
+        </div>
+        <div class="form-group">
+            <label for="">Contact Number</label>
+            <input type="text" name="contactnumber" id="" class="form-control" ngModel>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="form-group">
+                    <label for="">Enter Password</label>
+                    <input type="text" name="password" id="" class="form-control" ngModel>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="form-group">
+                    <label for="">Confirm Password</label>
+                    <input type="text" name="confirmpassword" id="" class="form-control" ngModel>
+                </div>
+            </div>
+        </div>
+        <p>
+            Already a <a href="/">User?</a>
+        </p>
+        <h4>
+            <span class="badge badge-warning">{{ registerResponse.errorMessage}}</span>
+        </h4>
+        <h4>
+            <label for="" class="badge badge-warning">{{ registerResponse.successMessage}}</label>
+        </h4>
+        <button class="btn btn-primary btn-lg">Register</button>
+
+    </form>
+</div> -->
+<div class="container">
+        <div class="card o-hidden border-0 shadow-lg my-5">
+          <div class="card-body p-0">
+            <!-- Nested Row within Card Body -->
+            <div class="row">
+              <div class="col-lg-5 d-none d-lg-block bg-register-image"></div>
+              <div class="col-lg-7">
+                <div class="p-5">
+                  <div class="text-center">
+                    <h1 class="h4 text-gray-900 mb-4">Register As User!</h1>
+                  </div>
+                  <form class="user" #registerForm="ngForm" (ngSubmit)="onSubmit(registerForm.value)">
+                        <div class="form-group">                                
+                                <input type="text" name="username" class="form-control form-control-user" id=""  placeholder="User Name" ngModel>
+                            </div>
+                    <div class="form-group row">
+                      <div class="col-sm-6 mb-3 mb-sm-0">
+                        <input type="text" name="firstname" class="form-control form-control-user" id="exampleFirstName" placeholder="First Name" ngModel>
+                      </div>
+                      <div class="col-sm-6">
+                        <input type="text" name="lastname" class="form-control form-control-user" id="exampleLastName" placeholder="Last Name" ngModel>
+                      </div>
+                    </div>
+                    <div class="form-group">
+                      <input type="email" name="email" class="form-control form-control-user" id="exampleInputEmail" placeholder="Email Address" ngModel>
+                    </div>
+                    <div class="form-group">                            
+                            <input type="text" class="form-control form-control-user" name="contactnumber" id=""  placeholder="Contact Number" ngModel>
+                        </div>
+                    <div class="form-group row">
+                      <div class="col-sm-6 mb-3 mb-sm-0">
+                        <input type="password" name="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password" ngModel>
+                      </div>
+                      <div class="col-sm-6">
+                        <input type="password" name="confirmpassword" class="form-control form-control-user" id="exampleRepeatPassword" placeholder="Repeat Password" ngModel>
+                      </div>
+                    </div>
+                    <h4>
+                            <span class="badge badge-warning">{{ registerResponse.errorMessage}}</span>
+                        </h4>
+                        <h4>
+                            <label for="" class="badge badge-warning">{{ registerResponse.successMessage}}</label>
+                        </h4>
+                        <button class="btn btn-primary btn-lg">Register</button>                  
+                  </form>
+                  <hr>
+                  <div class="text-center">
+                    <a class="small" href="forgot-password.html">Forgot Password?</a>
+                  </div>
+                  <div class="text-center">
+                    <a class="small" href="/">Already have an account? Login!</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    
+      </div>

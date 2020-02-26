@@ -1,9 +1,0 @@
-C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Logging\bin\Debug\netcoreapp2.1\MOD.Logging.deps.json
-C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Logging\bin\Debug\netcoreapp2.1\MOD.Logging.dll
-C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Logging\bin\Debug\netcoreapp2.1\MOD.Logging.pdb
-C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Logging\obj\Debug\netcoreapp2.1\MOD.Logging.csproj.CoreCompileInputs.cache
-C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Logging\obj\Debug\netcoreapp2.1\MOD.Logging.AssemblyInfoInputs.cache
-C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Logging\obj\Debug\netcoreapp2.1\MOD.Logging.AssemblyInfo.cs
-C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Logging\obj\Debug\netcoreapp2.1\MOD.Logging.dll
-C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Logging\obj\Debug\netcoreapp2.1\MOD.Logging.pdb
-C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Logging\obj\Debug\netcoreapp2.1\MOD.Logging.csprojAssemblyReference.cache

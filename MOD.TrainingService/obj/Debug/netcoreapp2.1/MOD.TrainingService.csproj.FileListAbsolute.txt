@@ -22,6 +22,7 @@ C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\bin\Debug\netc
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\bin\Debug\netcoreapp2.1\MOD.TrainingService.pdb
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\bin\Debug\netcoreapp2.1\MOD.Entities.dll
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\bin\Debug\netcoreapp2.1\MOD.Entities.pdb
+C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\obj\Debug\netcoreapp2.1\MOD.TrainingService.csprojAssemblyReference.cache
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\obj\Debug\netcoreapp2.1\MOD.TrainingService.csproj.CoreCompileInputs.cache
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\obj\Debug\netcoreapp2.1\MOD.TrainingService.RazorAssemblyInfo.cache
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\obj\Debug\netcoreapp2.1\MOD.TrainingService.RazorAssemblyInfo.cs
@@ -31,4 +32,3 @@ C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\obj\Debug\netc
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\obj\Debug\netcoreapp2.1\MOD.TrainingService.csproj.CopyComplete
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\obj\Debug\netcoreapp2.1\MOD.TrainingService.dll
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\obj\Debug\netcoreapp2.1\MOD.TrainingService.pdb
-C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.TrainingService\obj\Debug\netcoreapp2.1\MOD.TrainingService.csprojAssemblyReference.cache

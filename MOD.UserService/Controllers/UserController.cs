@@ -43,8 +43,8 @@ namespace MOD.UserService.Controllers
             }
             catch (System.Exception ex)
             {
-                _logger.Error(ex.StackTrace);
-                return StatusCode(500, "Internal Server Error");
+                _logger.Error(ex.StackTrace + ex.Message);
+                return StatusCode(500, ex.Message);
             }
         }
 
@@ -71,8 +71,8 @@ namespace MOD.UserService.Controllers
             }
             catch (System.Exception ex)
             {
-                _logger.Error(ex.StackTrace);
-                return StatusCode(500, "Internal Server Error");
+                _logger.Error(ex.StackTrace + ex.Message);
+                return StatusCode(500, ex.Message);
             }
 
         }
@@ -92,8 +92,8 @@ namespace MOD.UserService.Controllers
             }
             catch (System.Exception ex)
             {
-                _logger.Error(ex.StackTrace);
-                return StatusCode(500, "Internal Server Error");
+                _logger.Error(ex.StackTrace + ex.Message);
+                return StatusCode(500, ex.Message);
             }
 
         }
@@ -113,8 +113,8 @@ namespace MOD.UserService.Controllers
             }
             catch (System.Exception ex)
             {
-                _logger.Error(ex.StackTrace);
-                return StatusCode(500, ex.StackTrace);
+                _logger.Error(ex.StackTrace +  ex.Message);
+                return StatusCode(500, ex.Message);
 
             }
 

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "29252f7c1422cd954b79cafd1f3ecb578836ed4b"
+    "signature": "149f209621f4eccb437c6f1e0773de5c5185838d"
   },
   "compilationOptions": {},
   "targets": {
@@ -13,6 +13,8 @@
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "Microsoft.NETCore.App": "2.1.0",
           "Moq": "4.13.1",
+          "NBench": "2.0.1",
+          "NBench.Runner": "1.2.2",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0"
         },
@@ -446,6 +448,15 @@
           }
         }
       },
+      "NBench/2.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/NBench.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "NBench.Runner/1.2.2": {},
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.1.0"
@@ -875,6 +886,20 @@
       "sha512": "sha512-ic4m9/b10tz9oRB1Oi5bW7E/FS6Pd2SH5OJFhlmhUJkQhiV5FyrIRxVUEaG5KOpSpcfSPGAVW4rRZt6OzrS5zg==",
       "path": "moq/4.13.1",
       "hashPath": "moq.4.13.1.nupkg.sha512"
+    },
+    "NBench/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zipYsmXS5YjS1baWr2WyjbSaMV5bCLqQbrQoQSh6XQ/x1x4Aw0HK2aRWspHvkqUxxbaY8BQVceagrzYugN1i9w==",
+      "path": "nbench/2.0.1",
+      "hashPath": "nbench.2.0.1.nupkg.sha512"
+    },
+    "NBench.Runner/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nhqIrJAX9Bk0SUa1t6wL9e+XHfdR6rSIy1TrgHzuko6fNGBibxvMOTEE0Fg5PdzzN/U5RLpdGryXw0RcSeclqA==",
+      "path": "nbench.runner/1.2.2",
+      "hashPath": "nbench.runner.1.2.2.nupkg.sha512"
     },
     "NETStandard.Library/2.0.3": {
       "type": "package",

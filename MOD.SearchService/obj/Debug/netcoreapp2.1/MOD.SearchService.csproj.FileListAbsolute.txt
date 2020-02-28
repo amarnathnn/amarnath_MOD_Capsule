@@ -31,3 +31,4 @@ C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.SearchService\obj\Debug\netcor
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.SearchService\obj\Debug\netcoreapp2.1\MOD.SearchService.csproj.CopyComplete
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.SearchService\obj\Debug\netcoreapp2.1\MOD.SearchService.dll
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.SearchService\obj\Debug\netcoreapp2.1\MOD.SearchService.pdb
+C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.SearchService\obj\Debug\netcoreapp2.1\MOD.SearchService.csprojAssemblyReference.cache

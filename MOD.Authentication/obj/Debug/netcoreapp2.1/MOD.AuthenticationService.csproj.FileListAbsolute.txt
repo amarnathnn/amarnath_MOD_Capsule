@@ -31,3 +31,4 @@ C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Authentication\obj\Debug\netco
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.AuthenticationService.csproj.CopyComplete
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.AuthenticationService.dll
 C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.AuthenticationService.pdb
+C:\Users\MOD\Amarnath_MOD_Capsule\MOD.BackEnd\MOD.Authentication\obj\Debug\netcoreapp2.1\MOD.AuthenticationService.csprojAssemblyReference.cache

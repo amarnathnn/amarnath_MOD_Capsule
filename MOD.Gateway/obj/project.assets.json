@@ -12843,11 +12843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Gateway\\MOD.Gateway.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Gateway\\MOD.Gateway.csproj",
       "projectName": "MOD.Gateway",
-      "projectPath": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Gateway\\MOD.Gateway.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Gateway\\MOD.Gateway.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Gateway\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Gateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12866,8 +12866,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Logging\\MOD.Logging.csproj": {
-              "projectPath": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Logging\\MOD.Logging.csproj"
+            "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Logging\\MOD.Logging.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Logging\\MOD.Logging.csproj"
             }
           }
         }

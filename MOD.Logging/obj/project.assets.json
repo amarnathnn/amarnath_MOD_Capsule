@@ -1056,11 +1056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Logging\\MOD.Logging.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Logging\\MOD.Logging.csproj",
       "projectName": "MOD.Logging",
-      "projectPath": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Logging\\MOD.Logging.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Logging\\MOD.Logging.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Logging\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Logging\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

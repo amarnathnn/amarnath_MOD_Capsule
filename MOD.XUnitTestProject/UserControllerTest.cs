@@ -28,7 +28,7 @@ namespace MOD.XUnitTestProject
             // Assert
             var okObjectResult = Assert.IsType<OkObjectResult>(response);
             var data = Assert.IsAssignableFrom<UserService.Models.UserDto>(okObjectResult.Value);
-            Assert.Equal(testUser.UserName, data.UserName);            
+            Assert.Equal("smith@gmail.com", data.UserName);            
         }
         [Fact]
         public void Get_ReturnOkObjectResult_GetMentorDetails()

@@ -12628,11 +12628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Authentication\\MOD.AuthenticationService.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Authentication\\MOD.AuthenticationService.csproj",
       "projectName": "MOD.AuthenticationService",
-      "projectPath": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Authentication\\MOD.AuthenticationService.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Authentication\\MOD.AuthenticationService.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Authentication\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Authentication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12651,8 +12651,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Entities\\MOD.Entities.csproj": {
-              "projectPath": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Entities\\MOD.Entities.csproj"
+            "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Entities\\MOD.Entities.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Entities\\MOD.Entities.csproj"
             }
           }
         }

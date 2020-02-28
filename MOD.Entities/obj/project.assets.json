@@ -2578,11 +2578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Entities\\MOD.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Entities\\MOD.Entities.csproj",
       "projectName": "MOD.Entities",
-      "projectPath": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Entities\\MOD.Entities.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Entities\\MOD.Entities.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MOD\\Amarnath_MOD_Capsule\\MOD.BackEnd\\MOD.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\amarnath_MOD_Capsule\\MOD.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
